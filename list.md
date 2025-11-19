@@ -12,8 +12,8 @@
 | PI_1_117536 |                                                                             |
 | PI_1_124318 |        [Ссылка на Git](https://github.com/DRON5011/PI_41_124318.git)        |
 | PI_1_124005 |                                                                             |
-| PI_1_124331 |           [Ссылка на Git](https://github.com/alexeyilyin7-source)           |
-| PI_1_124004 |           [Ссылка на Git](https://github.com/Egor4pik/s124004)                                                                  |
+| PI_1_124331 |           [Ссылка на Git](https://github.com/alexeyilyin7-source/Koncepcia)           |
+| PI_1_124004 |           [Ссылка на Git](https://github.com/Egor4pik/s124004)              |
 | PI_1_124212 |                                                                             |
 | PI_1_124093 |               [Ссылка на Git](https://github.com/Pkopeykasir)               |
 | PI_1_125809 |                                                                             |
@@ -21,7 +21,7 @@
 | PI_1_124314 |        [Ссылка на Git](https://github.com/s124314/pi4-1-s124314.git)        |
 | PI_1_125810 |                                                                             |
 | PI_1_124191 |           [Ссылка на Git](https://github.com/pupa0000/homework1)            |
-| PI_1_123619 |                                                                             |
+| PI_1_123619 |     [Ссылка на Git](https://github.com/filippnesterov3002/PI_41_123619)     |
 | PI_1_124339 |     [Ссылка на Git](https://github.com/poetessa21stoletiya/s124339.git)     |
 | PI_1_136350 |                                                                             |
 | PI_1_124337 |                                                                             |
@@ -36,3 +36,4 @@
 
 
  
+
