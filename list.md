@@ -17,7 +17,7 @@
 | PI_1_124212 |                                                                             |
 | PI_1_124093 |               [Ссылка на Git](https://github.com/Pkopeykasir)               |
 | PI_1_125809 |                                                                             |
-| PI_1_123422 |                                                                             |
+| PI_1_123422 |      [Ссылка на Git](https://github.com/mariakuz12345/MariaKuznetsova1)     |
 | PI_1_124314 |        [Ссылка на Git](https://github.com/s124314/pi4-1-s124314.git)        |
 | PI_1_125810 |                                                                             |
 | PI_1_124191 |           [Ссылка на Git](https://github.com/pupa0000/homework1)            |
@@ -36,5 +36,6 @@
 
 
  
+
 
 
